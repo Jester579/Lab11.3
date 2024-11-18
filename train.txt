@@ -1,0 +1,4 @@
+Lviv;1;12:40
+Kyiv;0;13:30
+Odessa;2;15:30
+Ternopil;2;14:30
